@@ -1,6 +1,6 @@
-# NET.BackgroundServices
+# RMIT-Services
 
-**NET.BackgroundServices** is a sample .NET project demonstrating how to build efficient and maintainable **background services**.  
+**RMIT-Services** is a sample .NET project demonstrating how to build efficient and maintainable **background services**.  
 It serves as a clean template for implementing long-running background tasks that can be reused in various .NET applications such as Worker Services or ASP.NET Core.
 
 Key objectives:
